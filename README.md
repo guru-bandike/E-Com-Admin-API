@@ -17,7 +17,7 @@ Follow these steps to set up the project on your local system:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/guru-bandike/e-com-admin-api.git
+   git clone https://github.com/guru-bandike/E-Com-Admin-API.git
    ```
 
 2. **Navigate into the Project Directory:**
